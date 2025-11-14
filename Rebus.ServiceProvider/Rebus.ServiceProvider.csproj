@@ -7,14 +7,14 @@
 		<Copyright>Copyright Rebus FM ApS 2012</Copyright>
 		<PackageTags>rebus service-provider ioc dependency-injection</PackageTags>
 		<PackageDescription>Provides a service provider-based container adapter for Rebus (i.e. integration with Microsoft.Extensions.DependencyInjection) as well as integration with the generic host</PackageDescription>
-		<RepositoryUrl>https://github.com/rebus-org/Rebus.ServiceProvider</RepositoryUrl>
+		<RepositoryUrl>https://github.com/Ole-Visma/Rebus.ServiceProvider</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<RootNamespace>Rebus</RootNamespace>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageIcon>little_rebusbus2_copy-200x200.png</PackageIcon>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
         <PackageId>Rebus.ServiceProvider.EconomicFork</PackageId>
-        <PackageVersion>9.6.1-economic</PackageVersion>
+        <PackageVersion>0.0.1-economic</PackageVersion>
 	</PropertyGroup>
 	<ItemGroup>
 		<None Include="..\artwork\little_rebusbus2_copy-200x200.png">
